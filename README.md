@@ -1,3 +1,4 @@
+# Thematic poem generator
 ## Project Description
 The goal of this project is to build a NN which generates a poem based on a topic or theme. I landed on this topic because I’m interested in the applications of neural nets in creative and artistic fields. During my preliminary research, it seems there do already exist many poem generators using neural networks. However, these seem to focus replicating form, emotion, or style of poem, rather than theme or topic.
 
