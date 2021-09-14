@@ -1,4 +1,5 @@
-theme: jekyll-theme-tactile
+---
 title: Thematic poem generator
 description: Chloe's project proposal for CS152
-
+---
+theme: jekyll-theme-tactile
